@@ -1,0 +1,53 @@
+body{
+	background-image:url("bg.jpg"); 
+ background-attachment:center:150px; 
+  background-size:cover; font-family: 'Dancing Script', cursive;
+text-align:center;	
+	}
+
+fieldset{
+	
+		 width:40%;
+		 margin-left:26%;
+	margin-top:80px;
+	padding:1%;
+	boder-bottom:50%;
+	color:white;
+        }
+.REX{
+     padding:6px;
+	 width:250px;
+	 margin-top:15px;
+	  border-radius:10px;
+     }	
+.TOM{
+	padding:6px;
+	border-radius:12px;
+	width:250px;
+	margin-top:13px;
+	
+    }
+.guna{
+    margin-left:10px;
+	margin-top:10px;
+    
+}	 
+.tiger{
+	margin:12px;
+	padding:8px;
+	border-radius:15px;;
+	background:blue;
+	border:darkblue;
+    width:250px;
+	color:white;
+	font-weight:500;
+	font-size:150%;
+}
+.AK{
+	 margin:25px 20px 20px 0px;
+}
+.GUN{color:black;
+margin-bottom:5%;
+padding:15px;
+width:250px;
+border-radius:15px;}	
