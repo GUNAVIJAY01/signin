@@ -1,6 +1,7 @@
 body{
 	background-image:url("bg.jpg"); 
- background-attachment:center:150px; 
+ background-attachment:center:150px;
+background-repeat:no-repeat; 
   background-size:cover; font-family: 'Dancing Script', cursive;
 text-align:center;	
 	}
